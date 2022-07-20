@@ -20,6 +20,6 @@
  - Clone the repository by running this command `git clone https://github.com/moithaopi/Lamp-docker.git` .
  - Then move into the root folder of Lamp-docker using this command `cd Lamp-docker`.
  - Run this command `docker-compose up -d` for docker to pull images from docker repository into your local machine and create lamp-image
- - Check if the lamp docker images is running by using this command `docker ps` the result should be like this ![https://github.com/moithaopi/Lamp-docker/blob/master/img/docker_ps_result.png] and (also run this to check if successfully connected to database)[http://localhost:8081/] (this for php information)[http://localhost:8081/phpinfo.php]
+ - Check if the lamp docker images is running by using this command `docker ps` the result should be like this ![alt text][https://github.com/moithaopi/Lamp-docker/blob/master/img/docker_ps_result.png] and (also run this to check if successfully connected to database)[http://localhost:8081/] (this for php information)[http://localhost:8081/phpinfo.php]
 
 
